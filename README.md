@@ -1,6 +1,6 @@
 <img src="https://www.vrchatkmart.com/images/kmartbig.gif" alt="Kmart Epic Logo">
 
-# VRChat-Kmart-Bot-Suggestions
+# VRChat Kmart Bot Suggestions
 Repo to request features for the VRChat Kmart
 
 
