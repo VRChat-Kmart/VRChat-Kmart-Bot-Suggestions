@@ -1,3 +1,5 @@
+<img src="https://cdn.discordapp.com/icons/627804596378664979/a_2b393a98e4200294376ac3c257fb9064.webp?size=128" alt="Kmart Epic Logo">
+
 # VRChat-Kmart-Bot-Suggestions
 Repo to request features for the VRChat Kmart
 
